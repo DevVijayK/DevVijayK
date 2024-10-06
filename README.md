@@ -36,29 +36,15 @@ Learning React and Tailwind.<br>
 
   <br>
 
-# Connect with me:
-<br>
-
-<a href="https://linkedin.com/in/developer-vijay" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-
-<br>
-<hr>
-<br>
 
 # 📊 GitHub Stats:
 <table align="center" border="none">
 <tr border="none">
-<td width="50%" align="center">
+<td>
     
   ![](https://github-readme-stats.vercel.app/api?username=devvijayk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
     
-![](https://github-readme-streak-stats.herokuapp.com/?user=devvijayk&theme=dark&hide_border=false)<br/><br/>
-
 </td>
-<td width="50%" align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvijayk&theme=dark&hide)](https://github.com/anuraghazra/github-readme-stats)
 
-  </td>
 </tr>
 </table>
